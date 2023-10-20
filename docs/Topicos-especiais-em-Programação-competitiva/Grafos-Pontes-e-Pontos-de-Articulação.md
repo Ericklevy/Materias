@@ -3,7 +3,7 @@
 
 ## Pontes
 
-Seja G(V, E) um grafo não-direcionado conectado. Uma aresta e  $$
+Seja G(V, E) um grafo não-direcionado conectado. Uma aresta 
 
 $` e  \in E `$
 
